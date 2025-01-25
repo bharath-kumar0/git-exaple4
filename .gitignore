@@ -2,4 +2,3 @@
 hello.js
 *.txt
 !imt.txt
-# temp/
